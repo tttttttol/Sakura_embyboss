@@ -1,4 +1,4 @@
-# 🌸 Sakura_embyboss 初学练习版
+# 🌸 Sakura_embyboss 初学练习版 感谢花犯大佬出品    特此备份
 
 <p align="center">
 <img src="image/bot2.png" alt="bot"><br>
